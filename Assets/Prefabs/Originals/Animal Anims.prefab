@@ -533,7 +533,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1556999521084333784}
-  - component: {fileID: 2314790683078472694}
   - component: {fileID: -4200174391464542222}
   m_Layer: 3
   m_Name: Animal Anims
@@ -549,8 +548,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2220347717494703202}
-  m_LocalRotation: {x: -0.1179475, y: -0.70447916, z: -0.6893988, w: -0.12052745}
-  m_LocalPosition: {x: -4.264391, y: 2.4502633, z: -1.7118349}
+  m_LocalRotation: {x: 0.5746231, y: -0.1168269, z: 0.08331642, w: 0.8057408}
+  m_LocalPosition: {x: 0.06, y: 1.48899, z: -1.76449}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -560,22 +559,7 @@ Transform:
   - {fileID: 672175277908097868}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: -109.455, y: -86.48801, z: -93.724}
---- !u!111 &2314790683078472694
-Animation:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2220347717494703202}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Animation: {fileID: 2264077025236624520, guid: 680c6cc2564107e468221d76cbe88c99, type: 3}
-  m_Animations: []
-  m_WrapMode: 0
-  m_PlayAutomatically: 1
-  m_AnimatePhysics: 0
-  m_CullingType: 0
+  m_LocalEulerAnglesHint: {x: 70.99, y: -16.5, z: 0}
 --- !u!95 &-4200174391464542222
 Animator:
   serializedVersion: 4

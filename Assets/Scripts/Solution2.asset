@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Solution2
   m_EditorClassIdentifier: 
   combination: 030000000300000005000000010000000500000005000000010000000700000007000000
-  thingToSpawn: {fileID: 2220347717494703202, guid: 949199035d274ff48b2e18f7decfaeed, type: 3}
+  thingToSpawn: {fileID: 4453891471124466984, guid: 3fc6952dcfad8c44688959b561aa12a2, type: 3}

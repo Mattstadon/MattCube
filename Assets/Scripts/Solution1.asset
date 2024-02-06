@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Solution1
   m_EditorClassIdentifier: Assembly-CSharp::Solution
   combination: 020000000000000006000000000000000400000000000000000000000400000000000000
-  thingToSpawn: {fileID: 848097295963884083, guid: 6c15ff4a131092d4b8b9074a6680d04e, type: 3}
+  thingToSpawn: {fileID: 6878179836551108917, guid: bb03001e0d45b3a48b03e8bea0474414, type: 3}
