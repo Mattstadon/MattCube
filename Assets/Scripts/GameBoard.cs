@@ -64,7 +64,7 @@ public class GameBoard : MonoBehaviour
             GameObject objectToSpawn = currentSolution.thingToSpawn;
             if (objectToSpawn != null)
             {
-                Instantiate(objectToSpawn, transform.position, Quaternion.identity);
+                Instantiate(objectToSpawn, transform.position, transform.rotation);
                 //currentSolution = null;
             }
         }

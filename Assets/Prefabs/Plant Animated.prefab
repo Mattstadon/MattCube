@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3164508274561348950}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: finger1IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40,7 +40,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 848484609873835603}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: stem2IK.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -71,7 +71,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3636431980001065462}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: stem3IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -102,7 +102,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4093529536805860525}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: finger20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -134,7 +134,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4829131549569390876}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: finger21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -165,7 +165,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6928514776530474072}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Spine0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -197,7 +197,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7998300532191807975}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: finger30
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -229,7 +229,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4941714262269151603}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: finger2IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -260,7 +260,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4413924436575593906}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: stem0.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -292,7 +292,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8576455717470383209}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: stem2IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -324,7 +324,7 @@ GameObject:
   m_Component:
   - component: {fileID: 40210599817629833}
   - component: {fileID: -268051262091135309}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plant Animated
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -377,7 +377,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3904239164479939946}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Spine1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -409,7 +409,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1470327510049062330}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: finger40
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -441,7 +441,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 862461746260970981}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: finger5IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -472,7 +472,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8654061837591582278}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: finger31
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -503,7 +503,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 89942223407926887}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Spine3IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -539,7 +539,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4305584287267845542}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: stem2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -570,7 +570,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9036036242966314474}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: finger51
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -601,7 +601,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8225740571816504609}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: stem1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -633,7 +633,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2929546367680409505}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Spine3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -670,7 +670,7 @@ GameObject:
   m_Component:
   - component: {fileID: 525372199624341042}
   - component: {fileID: 8838232928064243500}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Retopo_Plant.006
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -786,7 +786,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1959134518500826806}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: finger50
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -818,7 +818,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2282083083811022871}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: finger41
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -849,7 +849,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3370583022761795026}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: stem21
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -881,7 +881,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4380488679598871388}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: finger0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -913,7 +913,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3121483284148240680}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: stem30
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -945,7 +945,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8863058421886006928}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: stem23
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -976,7 +976,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8952608507270397975}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Armature
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1015,7 +1015,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6257061285656460833}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: stem32
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1046,7 +1046,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3614880564327180716}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: finger4IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1077,7 +1077,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6110416889276413114}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: stem31
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1109,7 +1109,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6280719161485595012}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Spine2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1141,7 +1141,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8133602667279841155}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: finger1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1172,7 +1172,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2932925322331245927}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: stem20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1204,7 +1204,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4845519834973470385}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: finger3IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -10,7 +10,7 @@ public class PuzzleCube : MonoBehaviour
     private void OnMouseDown()
     {
         currentState += 1;
-        if (currentState > 8)
+        if (currentState > 7)
         {
             currentState = 0;
         }

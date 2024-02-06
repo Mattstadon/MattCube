@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2093889861782320454}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Leg2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41,7 +41,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8960961040629962550}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: arm0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -73,7 +73,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1066442905204587412}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: arm1.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -105,7 +105,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2213339209501839293}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: arm0.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -137,7 +137,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8254578291004123721}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: SpineIK_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -168,7 +168,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4556477661011770941}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: arm1.001_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -199,7 +199,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5458345372924867172}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: armIK.001_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -230,7 +230,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3463257657140392493}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: arm1_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -262,7 +262,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4933722672066616515}
   - component: {fileID: 2648777249910206612}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Retopo_Arms
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -367,7 +367,7 @@ GameObject:
   m_Component:
   - component: {fileID: 672175277908097868}
   - component: {fileID: 3532121172629201104}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Retopo_Legs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -471,7 +471,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4078510042685876565}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tail0.003_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -502,7 +502,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7327046890987100895}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Leg2_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -535,7 +535,7 @@ GameObject:
   - component: {fileID: 1556999521084333784}
   - component: {fileID: 2314790683078472694}
   - component: {fileID: -4200174391464542222}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Animal Anims
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -605,7 +605,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2136877156954902815}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Leg2.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -637,7 +637,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 973621700658716681}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Leg0.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -669,7 +669,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5194983939458397974}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: armIK.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -701,7 +701,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6637823801885103036}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: armIK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -733,7 +733,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 245734634637221270}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LegIK.001_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -764,7 +764,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2287458849824423969}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Spine0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -798,7 +798,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7768284376974689662}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: armIK_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -829,7 +829,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 933608527851667241}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Leg0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -861,7 +861,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8970713937929701189}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Leg1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -893,7 +893,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7122717635294661141}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Leg2.001_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -924,7 +924,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1277244128158750174}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LegIK_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -955,7 +955,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7761308596649074137}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tail0.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -987,7 +987,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8553904672493091001}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: arm1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1019,7 +1019,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1610543988416738784}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tail0.003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1051,7 +1051,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6188145795023043500}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Leg1.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1083,7 +1083,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1102462273034932973}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LegIK.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1115,7 +1115,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 394363853095319055}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: SpineIK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1147,7 +1147,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6099038765903359682}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Armature.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1187,7 +1187,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6491559478764943991}
   - component: {fileID: 3718934446681703015}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Retopo_Head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1291,7 +1291,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4447800661145032508}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Spine1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1325,7 +1325,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6337891698139434736}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tail0.001_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1356,7 +1356,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5235792106052185772}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LegIK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1388,7 +1388,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8166461317782712678}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Spine2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1421,7 +1421,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8481593773061783252}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Spine2_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1453,7 +1453,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8851581538323874931}
   - component: {fileID: 8694874944078106677}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Retopo_Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
