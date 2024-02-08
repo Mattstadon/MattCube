@@ -1055,6 +1055,18 @@ MonoBehaviour:
           m_StringArgument: Open
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1733107717}
+        m_TargetAssemblyTypeName: GameBoard, Assembly-CSharp
+        m_MethodName: DestroySpawnedObject
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &833722627
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1714,6 +1726,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 32609a63c54bce04dba83f57e6dcf628, type: 2}
   - {fileID: 11400000, guid: 391668526d99c3848812d7b19c6d0742, type: 2}
   currentSolution: {fileID: 0}
+  objectToDestroy: {fileID: 6878179836551108917, guid: bb03001e0d45b3a48b03e8bea0474414, type: 3}
 --- !u!4 &1733107718
 Transform:
   m_ObjectHideFlags: 0

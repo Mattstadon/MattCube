@@ -13,6 +13,8 @@ public class GameBoard : MonoBehaviour
     [SerializeField] int[] cubeValues;
     [SerializeField] CubeSolution[] possibleSolutions;
     [SerializeField] CubeSolution currentSolution;
+    [SerializeField] GameObject objectToDestroy;
+
 
     // Start is called before the first frame update
     void Start()
@@ -57,16 +59,21 @@ public class GameBoard : MonoBehaviour
         }
     }
 
+    private GameObject spawnedObject;
     void SpawnTargetObject()
     {
-        if (currentSolution != null)
+        if (currentSolution != null && currentSolution.thingToSpawn !=null)
+        { 
+         spawnedObject = Instantiate(currentSolution.thingToSpawn, transform.position, transform.rotation);  
+        }
+    }
+
+    public void DestroySpawnedObject()
+    {
+        if (spawnedObject != null)
         {
-            GameObject objectToSpawn = currentSolution.thingToSpawn;
-            if (objectToSpawn != null)
-            {
-                Instantiate(objectToSpawn, transform.position, transform.rotation);
-                //currentSolution = null;
-            }
+            Destroy(spawnedObject);
+            spawnedObject = null;
         }
     }
 }
