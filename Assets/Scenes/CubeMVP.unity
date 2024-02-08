@@ -255,9 +255,29 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1733107718}
     m_Modifications:
+    - target: {fileID: 1992977009915961250, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1992977009915961251, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: laserDistance
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_Name
       value: PuzzleCube (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_IsActive
@@ -305,6 +325,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645239, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2427080648025506738, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2701682042088529950, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Intensity
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5358565604333786400, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5358565604333786400, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -519,10 +555,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -558,9 +594,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1733107718}
     m_Modifications:
+    - target: {fileID: 1992977009915961251, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: laserDistance
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_Name
       value: PuzzleCube (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_IsActive
@@ -610,6 +662,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2427080648025506738, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2701682042088529950, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Intensity
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5358565604333786400, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5358565604333786400, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
 --- !u!4 &377688398 stripped
@@ -635,9 +703,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1733107718}
     m_Modifications:
+    - target: {fileID: 1992977009915961251, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: laserDistance
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_Name
       value: PuzzleCube (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_IsActive
@@ -685,6 +769,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645239, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2427080648025506738, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2701682042088529950, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Intensity
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5358565604333786400, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5358565604333786400, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -795,9 +895,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1733107718}
     m_Modifications:
+    - target: {fileID: 1992977009915961251, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: laserDistance
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_Name
       value: PuzzleCube (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_IsActive
@@ -845,6 +961,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645239, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2427080648025506738, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2701682042088529950, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Intensity
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5358565604333786400, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5358565604333786400, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -972,7 +1104,7 @@ GameObject:
   - component: {fileID: 833722627}
   - component: {fileID: 833722626}
   m_Layer: 5
-  m_Name: Button
+  m_Name: Reset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1131,7 +1263,7 @@ AudioListener:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_Enabled: 1
+  m_Enabled: 0
 --- !u!20 &963194227
 Camera:
   m_ObjectHideFlags: 0
@@ -1142,7 +1274,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -1157,7 +1289,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 60
+  field of view: 40
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -1182,7 +1314,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 8.54, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1221,9 +1353,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1733107718}
     m_Modifications:
+    - target: {fileID: 1992977009915961251, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: laserDistance
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_Name
       value: PuzzleCube (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_IsActive
@@ -1273,6 +1421,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2427080648025506738, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2701682042088529950, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Intensity
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5358565604333786400, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5358565604333786400, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
 --- !u!4 &1041340035 stripped
@@ -1287,9 +1451,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1733107718}
     m_Modifications:
+    - target: {fileID: 1992977009915961251, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: laserDistance
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_Name
       value: PuzzleCube (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_IsActive
@@ -1339,6 +1519,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2427080648025506738, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2701682042088529950, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Intensity
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5358565604333786400, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5358565604333786400, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
 --- !u!4 &1114290970 stripped
@@ -1353,9 +1549,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1733107718}
     m_Modifications:
+    - target: {fileID: 1992977009915961251, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: laserDistance
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_Name
       value: PuzzleCube (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_IsActive
@@ -1403,6 +1615,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645239, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2427080648025506738, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2701682042088529950, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Intensity
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5358565604333786400, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5358565604333786400, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -1498,9 +1726,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1733107718}
     m_Modifications:
+    - target: {fileID: 1992977009915961251, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: laserDistance
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_Name
       value: PuzzleCube (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_IsActive
@@ -1550,6 +1794,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2427080648025506738, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2701682042088529950, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Intensity
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5358565604333786400, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5358565604333786400, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
 --- !u!4 &1411551754 stripped
@@ -1575,9 +1835,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1733107718}
     m_Modifications:
+    - target: {fileID: 1992977009915961251, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: laserDistance
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_Name
       value: PuzzleCube
+      objectReference: {fileID: 0}
+    - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645226, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_IsActive
@@ -1625,6 +1901,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2427080647068645239, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2427080648025506738, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2701682042088529950, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Intensity
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5358565604333786400, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5358565604333786400, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -1726,7 +2018,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 32609a63c54bce04dba83f57e6dcf628, type: 2}
   - {fileID: 11400000, guid: 391668526d99c3848812d7b19c6d0742, type: 2}
   currentSolution: {fileID: 0}
-  objectToDestroy: {fileID: 6878179836551108917, guid: bb03001e0d45b3a48b03e8bea0474414, type: 3}
+  objectToDestroy: {fileID: 0}
 --- !u!4 &1733107718
 Transform:
   m_ObjectHideFlags: 0
