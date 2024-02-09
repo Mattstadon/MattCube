@@ -204,6 +204,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Laser
       objectReference: {fileID: 0}
+    - target: {fileID: 4181243661985592175, guid: 5cefc40ea1d38f34da57ae34e3a6731f, type: 3}
+      propertyPath: laserDistance
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5cefc40ea1d38f34da57ae34e3a6731f, type: 3}
 --- !u!4 &1992977009915961260 stripped

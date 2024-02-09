@@ -248,6 +248,18 @@ MonoBehaviour:
           m_StringArgument: Open
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1733107716}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: BroadcastMessage
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: ResetValues
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1001 &43568007
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -258,10 +270,6 @@ PrefabInstance:
     - target: {fileID: 1992977009915961250, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_Enabled
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1992977009915961251, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
-      propertyPath: laserDistance
-      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_Layer
@@ -594,10 +602,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1733107718}
     m_Modifications:
-    - target: {fileID: 1992977009915961251, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
-      propertyPath: laserDistance
-      value: 100
-      objectReference: {fileID: 0}
     - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_Layer
       value: 0
@@ -703,10 +707,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1733107718}
     m_Modifications:
-    - target: {fileID: 1992977009915961251, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
-      propertyPath: laserDistance
-      value: 100
-      objectReference: {fileID: 0}
     - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_Layer
       value: 0
@@ -895,10 +895,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1733107718}
     m_Modifications:
-    - target: {fileID: 1992977009915961251, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
-      propertyPath: laserDistance
-      value: 100
-      objectReference: {fileID: 0}
     - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_Layer
       value: 0
@@ -1353,10 +1349,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1733107718}
     m_Modifications:
-    - target: {fileID: 1992977009915961251, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
-      propertyPath: laserDistance
-      value: 100
-      objectReference: {fileID: 0}
     - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_Layer
       value: 0
@@ -1451,10 +1443,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1733107718}
     m_Modifications:
-    - target: {fileID: 1992977009915961251, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
-      propertyPath: laserDistance
-      value: 100
-      objectReference: {fileID: 0}
     - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_Layer
       value: 0
@@ -1549,10 +1537,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1733107718}
     m_Modifications:
-    - target: {fileID: 1992977009915961251, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
-      propertyPath: laserDistance
-      value: 100
-      objectReference: {fileID: 0}
     - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_Layer
       value: 0
@@ -1726,10 +1710,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1733107718}
     m_Modifications:
-    - target: {fileID: 1992977009915961251, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
-      propertyPath: laserDistance
-      value: 100
-      objectReference: {fileID: 0}
     - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_Layer
       value: 0
@@ -1835,10 +1815,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1733107718}
     m_Modifications:
-    - target: {fileID: 1992977009915961251, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
-      propertyPath: laserDistance
-      value: 100
-      objectReference: {fileID: 0}
     - target: {fileID: 1992977009915961261, guid: eb0705e137ab23e40958c9c2d9c52f6d, type: 3}
       propertyPath: m_Layer
       value: 0

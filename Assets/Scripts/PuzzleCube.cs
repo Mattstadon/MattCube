@@ -20,4 +20,10 @@ public class PuzzleCube : MonoBehaviour
 
         laserOrientationTransform.localRotation = Quaternion.Euler(targetRotation);
     }
+
+    public void ResetValues()
+    {
+        currentState = 0;
+        laserOrientationTransform.localRotation = Quaternion.identity;
+    }
 }
