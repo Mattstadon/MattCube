@@ -881,7 +881,13 @@ PlayerSettings:
   XboxOneOverrideIdentityPublisher: 
   vrEditorSettings: {}
   cloudServicesEnabled:
+    Build: 0
+    Collab: 0
+    Game Performance: 0
+    Purchasing: 0
+    UDP: 0
     UNet: 1
+    Unity Ads: 0
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -896,11 +902,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: cc80dc4b-7a67-473f-96af-8c9c50f43846
+  cloudProjectId: 3e850f9d-256f-47f4-a1c5-a189e2b1c31a
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: MattCubeTest
-  organizationId: mattstadon247
+  organizationId: tenchu61
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 

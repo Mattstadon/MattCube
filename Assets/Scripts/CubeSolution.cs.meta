@@ -3,7 +3,9 @@ guid: 4997496a68240cc4782d38b2bfbff3af
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - thingToSpawn: {instanceID: 0}
+  - victorySound: {fileID: 8300000, guid: 5a0fba3918ef0134eb959dc3f4c3d5cf, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

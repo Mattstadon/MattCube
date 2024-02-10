@@ -9,7 +9,7 @@ public class GameBoard : MonoBehaviour
     [SerializeField] GameObject objectToDestroy;
 
 
-    // Start is called before the first frame update
+
     void Start()
     {
         puzzleCubes = GetComponentsInChildren<PuzzleCube>();

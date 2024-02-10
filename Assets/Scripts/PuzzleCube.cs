@@ -1,11 +1,11 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class PuzzleCube : MonoBehaviour
 {
     public int currentState = 0;
     [SerializeField] Transform laserOrientationTransform;
+    [SerializeField] SFXManager sfxManager;
+    [SerializeField] AudioClip[] sfxClips;
 
     private void OnMouseDown()
     {
@@ -19,6 +19,13 @@ public class PuzzleCube : MonoBehaviour
         targetRotation.y = 45 * currentState;
 
         laserOrientationTransform.localRotation = Quaternion.Euler(targetRotation);
+
+        AudioClip chosenClip = sfxClips[currentState % sfxClips.Length];
+
+        if (sfxManager != null && chosenClip != null)
+        {
+            sfxManager.PlaySFX(sfxManager.SFX1);
+        }
     }
 
     public void ResetValues()
