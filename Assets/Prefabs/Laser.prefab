@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4181243661985592160}
   - component: {fileID: 4181243661985592174}
   - component: {fileID: 4181243661985592175}
+  - component: {fileID: 8297484847903044715}
   m_Layer: 0
   m_Name: Laser
   m_TagString: Untagged
@@ -42,7 +43,7 @@ LineRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4181243661985592161}
   m_Enabled: 1
-  m_CastShadows: 0
+  m_CastShadows: 1
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
   m_StaticShadowCaster: 0
@@ -98,7 +99,7 @@ LineRenderer:
       m_RotationOrder: 4
     colorGradient:
       serializedVersion: 2
-      key0: {r: 1, g: 1, b: 1, a: 1}
+      key0: {r: 0.031149892, g: 0.9433962, b: 0.87134266, a: 1}
       key1: {r: 1, g: 1, b: 1, a: 1}
       key2: {r: 0, g: 0, b: 0, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
@@ -151,6 +152,23 @@ MonoBehaviour:
   laserDistance: 100
   hitEffect: {fileID: 7778785263223814636}
   effectOffsetAmount: 0.1
+--- !u!114 &8297484847903044715
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4181243661985592161}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0952b0f2f13dd7a48baafaf483e3831d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  laserMaterial: {fileID: 2100000, guid: da7e1a02bc3cfd341901ddeaff20fa64, type: 2}
+  maxDistance: 100
+  laserWidth: 0.1
+  laserSound: {fileID: 0}
+  soundVolume: 0.5
 --- !u!1 &7778785263223814636
 GameObject:
   m_ObjectHideFlags: 0

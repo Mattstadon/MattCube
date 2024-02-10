@@ -7,8 +7,7 @@ public class GameBoard : MonoBehaviour
     [SerializeField] CubeSolution[] possibleSolutions;
     [SerializeField] CubeSolution currentSolution;
     [SerializeField] GameObject objectToDestroy;
-
-
+    [SerializeField] SFXManager sfxManager;
 
     void Start()
     {
@@ -16,7 +15,7 @@ public class GameBoard : MonoBehaviour
         cubeValues = new int[puzzleCubes.Length];
     }
 
-    // Update is called once per frame
+    
     void Update()
     {
         if (currentSolution == null)
@@ -27,7 +26,7 @@ public class GameBoard : MonoBehaviour
 
     void PopulateCubeValues()
     {
-        for (int i = 0; i < puzzleCubes.Length; i++) 
+        for (int i = 0; i < puzzleCubes.Length; i++)
         {
             cubeValues[i] = puzzleCubes[i].currentState;
         }
@@ -36,11 +35,11 @@ public class GameBoard : MonoBehaviour
         {
             bool matchFound = true;
             for (int i = 0; i < solution.combination.Length; i++)
-            {              
+            {
                 if (solution.combination[i] != cubeValues[i])
                 {
                     matchFound = false;
-                }           
+                }
             }
 
             if (matchFound)
@@ -48,6 +47,7 @@ public class GameBoard : MonoBehaviour
                 print("Data Recieved");
                 currentSolution = solution;
                 SpawnTargetObject();
+                PlayVictorySound();
             }
         }
     }
@@ -55,9 +55,17 @@ public class GameBoard : MonoBehaviour
     private GameObject spawnedObject;
     void SpawnTargetObject()
     {
-        if (currentSolution != null && currentSolution.thingToSpawn !=null)
-        { 
-         spawnedObject = Instantiate(currentSolution.thingToSpawn, transform.position, transform.rotation);  
+        if (currentSolution != null && currentSolution.thingToSpawn != null)
+        {
+            spawnedObject = Instantiate(currentSolution.thingToSpawn, transform.position, transform.rotation);
+        }
+    }
+
+    void PlayVictorySound()
+    {
+        if (currentSolution != null && sfxManager != null)
+        {
+            sfxManager.PlaySFX(currentSolution.victorySound, currentSolution.victorySoundVolume);
         }
     }
 

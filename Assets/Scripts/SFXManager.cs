@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class SFXManager : MonoBehaviour
 {
+    public static SFXManager Instance { get; private set; }
+
     [Header("-------- Audio Source --------")]
     [SerializeField] AudioSource musicSource;
     [SerializeField] AudioSource SFXSource;
@@ -14,6 +16,18 @@ public class SFXManager : MonoBehaviour
     public AudioClip SFX4;
     public AudioClip SFX5;
 
+    private void Awake()
+    {
+        if (Instance == null)
+        {
+            Instance = this;
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
+
     private void Start()
     {
         musicSource.clip = background;
@@ -25,3 +39,4 @@ public class SFXManager : MonoBehaviour
         SFXSource.PlayOneShot(clip, volume);
     }
 }
+
