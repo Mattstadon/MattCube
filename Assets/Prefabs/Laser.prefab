@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 4181243661985592174}
   - component: {fileID: 4181243661985592175}
   - component: {fileID: 8297484847903044715}
+  - component: {fileID: 2005408297372128745}
   m_Layer: 0
   m_Name: Laser
   m_TagString: Untagged
@@ -81,13 +82,13 @@ LineRenderer:
   - {x: 0, y: 0, z: 1}
   m_Parameters:
     serializedVersion: 3
-    widthMultiplier: 1
+    widthMultiplier: 0.5
     widthCurve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
-        time: 0
-        value: 0.257576
+        time: 0.011856886
+        value: 0.21642675
         inSlope: 0
         outSlope: 0
         tangentMode: 0
@@ -151,7 +152,7 @@ MonoBehaviour:
     m_Bits: 1
   laserDistance: 100
   hitEffect: {fileID: 7778785263223814636}
-  effectOffsetAmount: 0.1
+  effectOffsetAmount: 0.0001
 --- !u!114 &8297484847903044715
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -166,9 +167,29 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   laserMaterial: {fileID: 2100000, guid: da7e1a02bc3cfd341901ddeaff20fa64, type: 2}
   maxDistance: 100
-  laserWidth: 0.1
+  laserWidth: 0.5
   laserSound: {fileID: 0}
   soundVolume: 0.5
+--- !u!95 &2005408297372128745
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4181243661985592161}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0fd8f2b0e76daac4a9b2ad9704473820, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7778785263223814636
 GameObject:
   m_ObjectHideFlags: 0
