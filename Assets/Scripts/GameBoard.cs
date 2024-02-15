@@ -74,6 +74,7 @@ public class GameBoard : MonoBehaviour
         if (spawnedObject != null)
         {
             Destroy(spawnedObject);
+            currentSolution = null;
             spawnedObject = null;
         }
     }

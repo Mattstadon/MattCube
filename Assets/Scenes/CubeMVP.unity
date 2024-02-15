@@ -260,6 +260,18 @@ MonoBehaviour:
           m_StringArgument: ResetValues
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1733107717}
+        m_TargetAssemblyTypeName: UnityEngine.Behaviour, UnityEngine
+        m_MethodName: set_enabled
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
   sfxManager: {fileID: 2136344880}
   buttonClickSound: {fileID: 8300000, guid: 878b0422bfa775c4e8d94ddbfd87ca3d, type: 3}
   buttonClickVolume: 0.5
@@ -1341,7 +1353,7 @@ GameObject:
   - component: {fileID: 817615108}
   - component: {fileID: 817615107}
   - component: {fileID: 817615106}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: CameraBackground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1548,6 +1560,30 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1733107717}
+        m_TargetAssemblyTypeName: UnityEngine.Behaviour, UnityEngine
+        m_MethodName: set_enabled
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1733107717}
+        m_TargetAssemblyTypeName: UnityEngine.Component, UnityEngine
+        m_MethodName: BroadcastMessage
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: ResetValues
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &833722627

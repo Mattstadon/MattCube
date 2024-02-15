@@ -9,10 +9,13 @@ public class PuzzleCube : MonoBehaviour
 
     private void OnMouseDown()
     {
+        laserOrientationTransform.gameObject.SetActive(true);
+
         currentState += 1;
         if (currentState > 7)
         {
-            currentState = 0;
+            currentState = -1;
+            laserOrientationTransform.gameObject.SetActive(false);
         }
 
         Vector3 targetRotation = laserOrientationTransform.localRotation.eulerAngles;
@@ -30,7 +33,8 @@ public class PuzzleCube : MonoBehaviour
 
     public void ResetValues()
     {
-        currentState = 0;
+        currentState = -1;
+        laserOrientationTransform.gameObject.SetActive(false);
         laserOrientationTransform.localRotation = Quaternion.identity;
     }
 }

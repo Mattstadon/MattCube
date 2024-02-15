@@ -26,11 +26,17 @@ public class ModelRotator : MonoBehaviour
                     if (isDragging)
                     {
                         // Calculate the difference in position
-                        float deltaX = touch.position.x - touchStartPosition.x;
-                        float deltaY = touch.position.y - touchStartPosition.y;
+                        float deltaX = touch.deltaPosition.x;// touch.position.x - touchStartPosition.x;
+                        float deltaY = touch.deltaPosition.y;// touch.position.y - touchStartPosition.y;
 
                         // Rotate the object
-                        transform.Rotate(-deltaY * rotationSpeed * Time.deltaTime, -deltaX * rotationSpeed * Time.deltaTime, 0);
+                        Vector3 rotationDifference = new Vector3(touch.deltaPosition.y, touch.deltaPosition.x, 0);
+
+                        transform.Rotate(-Vector3.up * deltaX);
+                        //transform.Rotate(transform.right * deltaY);
+
+                        //transform.rotation *= Quaternion.Euler(rotationDifference);//Quaternion.Lerp(transform.localRotation, transform.localRotation * Quaternion.Euler(rotationDifference), Time.deltaTime * rotationSpeed);
+                        //transform.Rotate(deltaX * rotationSpeed * Time.deltaTime, deltaY * rotationSpeed * Time.deltaTime, 0, Space.World);
                     }
                     break;
 
