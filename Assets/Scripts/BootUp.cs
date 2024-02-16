@@ -1,9 +1,11 @@
 using System.Collections;
+using System.Diagnostics;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using static System.TimeZoneInfo;
 
+[DebuggerDisplay("{" + nameof(GetDebuggerDisplay) + "(),nq}")]
 public class BootUp : MonoBehaviour
 {
     public Animator transition;
@@ -37,15 +39,8 @@ public class BootUp : MonoBehaviour
         SceneManager.LoadScene("CubeMVP");
     }
 
-    IEnumerator Loadlevel(int levelIndex)
+    private string GetDebuggerDisplay()
     {
-        //Play Anim
-        transition.SetTrigger("Start");
-
-        //Wait
-        yield return new WaitForSeconds(5);
-
-        //Loadscene
-        SceneManager.LoadScene(levelIndex);
+        return ToString();
     }
 }

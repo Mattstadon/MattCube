@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4997496a68240cc4782d38b2bfbff3af, type: 3}
   m_Name: Solution6
   m_EditorClassIdentifier: 
-  combination: 040000000400000006000000020000000200000006000000000000000000000006000000
-  thingToSpawn: {fileID: 0}
-  victorySound: {fileID: 0}
+  combination: 040000000400000006000000020000000200000006000000ffffffffffffffff06000000
+  thingToSpawn: {fileID: 3079171376653850657, guid: 91eb6e415981f9946b52fa1dda6b319f, type: 3}
+  victorySound: {fileID: 8300000, guid: 5a0fba3918ef0134eb959dc3f4c3d5cf, type: 3}
   victorySoundVolume: 0.5
