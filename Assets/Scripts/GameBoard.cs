@@ -15,7 +15,7 @@ public class GameBoard : MonoBehaviour
         cubeValues = new int[puzzleCubes.Length];
     }
 
-    
+
     void Update()
     {
         if (currentSolution == null)
