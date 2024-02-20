@@ -15,4 +15,4 @@ MonoBehaviour:
   combination: 06000000040000000200000002000000ffffffff0600000006000000ffffffff02000000
   thingToSpawn: {fileID: 3725508990208323719, guid: 747d45fca26355447b34015af4c7a476, type: 3}
   victorySound: {fileID: 8300000, guid: 5a0fba3918ef0134eb959dc3f4c3d5cf, type: 3}
-  victorySoundVolume: 0.5
+  victorySoundVolume: 0.7
