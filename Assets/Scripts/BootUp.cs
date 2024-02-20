@@ -11,7 +11,7 @@ public class BootUp : MonoBehaviour
     [SerializeField] AudioClip buttonClickSound; // Sound effect to play on click
     [SerializeField] float buttonClickVolume = 1f; // Volume for the button click sound
     [SerializeField] Text bootUpText; // Reference to the Text object for boot-up text
-    [SerializeField] string fullText = "Initializing system...\nLoading operating system...\nChecking hardware...\nSystem integrity check...\nPreparing to boot...\nLoading user interface...\nEstablishing network connection...\nChecking for updates...\nSystem ready."; // The text to display during boot-up
+    [SerializeField] string fullText = "Initializing system...\n Loading operating system...\n Checking hardware...\n System integrity check...\n  Preparing to boot...\n Loading user interface...\n Establishing network connection...\n Checking for updates...\n System ready."; // The text to display during boot-up
     [SerializeField] float typingSpeed = 0.1f; // Speed at which the text types out
 
     private Button button; // Reference to the UI Button component
@@ -56,17 +56,34 @@ public class BootUp : MonoBehaviour
         textObject.text = ""; // Clear the text
         string[] lines = fullText.Split('\n'); // Split the text into lines
 
-        foreach (string line in lines)
+        for (int i = 0; i < lines.Length; i++)
         {
+            string line = lines[i];
             foreach (char letter in line.ToCharArray())
             {
                 textObject.text += letter; // Add the next character
                 yield return new WaitForSeconds(typingSpeed); // Wait before adding the next character
-            }
 
-            // Add a newline character after each line
-            textObject.text += "\n";
-            yield return new WaitForSeconds(typingSpeed * 2); // Wait before starting the next line
+                // Check if the last three characters are "..."
+                if (textObject.text.Length >= 3 && textObject.text.Substring(textObject.text.Length - 3) == "...")
+                {
+                    // Add a newline character after the "..."
+                    textObject.text += "\n";
+
+                    // Check if the line is "Checking for updates..." or the first line
+                    if (textObject.text.Contains("Checking for updates...") || i == 0)
+                    {
+                        // Wait longer before starting the next line
+                        yield return new WaitForSeconds(typingSpeed * 6); // Adjust the multiplier as needed
+                    }
+                    else
+                    {
+                        // Wait for a short period before starting the next line
+                        yield return new WaitForSeconds(typingSpeed * 2); // Adjust the multiplier as needed
+                    }
+                }
+            }
         }
     }
+
 }
