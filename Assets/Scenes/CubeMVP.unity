@@ -3035,6 +3035,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 32609a63c54bce04dba83f57e6dcf628, type: 2}
   - {fileID: 11400000, guid: 391668526d99c3848812d7b19c6d0742, type: 2}
   - {fileID: 11400000, guid: 54db1c7d81a7a2e41b875c4794867a3a, type: 2}
+  - {fileID: 11400000, guid: 7a24ef49a3f05ed4ea9cafb82a4d9406, type: 2}
   currentSolution: {fileID: 0}
   objectToDestroy: {fileID: 0}
   sfxManager: {fileID: 2136344880}
