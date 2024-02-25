@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   combination: 040000000300000002000000010000000400000003000000020000000100000000000000
   thingToSpawn: {fileID: 5946309272942328717, guid: e8eb1b8ee41457b42a879a9533ba7d29, type: 3}
-  victorySound: {fileID: 8300000, guid: 4b32dd968e9aa114691aeb9520143725, type: 3}
-  victorySoundVolume: 1
+  victorySound: {fileID: 0}
+  victorySoundVolume: 0

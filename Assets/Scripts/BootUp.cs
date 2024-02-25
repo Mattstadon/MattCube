@@ -11,8 +11,9 @@ public class BootUp : MonoBehaviour
     [SerializeField] AudioClip buttonClickSound; // Sound effect to play on click
     [SerializeField] float buttonClickVolume = 1f; // Volume for the button click sound
     [SerializeField] Text bootUpText; // Reference to the Text object for boot-up text
-    [SerializeField] string fullText = "Initializing system...\n Loading operating system...\n Checking hardware...\n System integrity check...\n  Preparing to boot...\n Loading user interface...\n Establishing network connection...\n Checking for updates...\n System ready."; // The text to display during boot-up
+    [SerializeField] string fullText = "Initializing system...\n Loading operating system...\n Checking hardware...\n System integrity check...\n Preparing to boot...\n Loading user interface...\n Establishing network connection...\n Checking for updates...\n System ready."; // The text to display during boot-up
     [SerializeField] float typingSpeed = 0.1f; // Speed at which the text types out
+    [SerializeField] GameObject[] panelsToDisable; // Array of panels to disable
 
     private Button button; // Reference to the UI Button component
 
@@ -34,6 +35,12 @@ public class BootUp : MonoBehaviour
 
         // Disable the button to prevent further clicks
         button.interactable = false;
+
+        // Disable all panels
+        foreach (GameObject panel in panelsToDisable)
+        {
+            panel.SetActive(false);
+        }
 
         // Start the boot-up sequence
         StartCoroutine(BootUpSequence());
@@ -85,5 +92,4 @@ public class BootUp : MonoBehaviour
             }
         }
     }
-
 }
