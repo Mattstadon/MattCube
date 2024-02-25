@@ -11,4 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CubeMVP.unity
     guid: 16ca3c8b0ddbce14399586a932720a95
-  m_configObjects: {}
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 05fa71531d1ba5f469625e62bced31a1, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6244f45772b81fd4bbfaae4892344f81, type: 2}

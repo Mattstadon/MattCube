@@ -1,9 +1,9 @@
 using UnityEngine;
-using UnityEngine.UI;
+using TMPro; // Import the TextMeshPro namespace
 
 public class CubePositionDisplay : MonoBehaviour
 {
-    [SerializeField] private Text cubeStateText; // Reference to the Text component
+    [SerializeField] private TextMeshProUGUI cubeStateText; // Reference to the TextMeshProUGUI component
     [SerializeField] private PuzzleCube[] puzzleCubes; // Array of PuzzleCube scripts
 
     private void Update()
@@ -17,6 +17,6 @@ public class CubePositionDisplay : MonoBehaviour
                 states += "Cube State: " + puzzleCube.currentState + "\n";
             }
         }
-        cubeStateText.text = states;
+        cubeStateText.text = states; // Use TextMeshPro's text property
     }
 }
