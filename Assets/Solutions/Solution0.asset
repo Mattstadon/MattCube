@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Solution0
   m_EditorClassIdentifier: 
   combination: 02000000020000000400000000000000ffffffff04000000000000000600000006000000
-  thingToSpawn: {fileID: 0}
+  thingToSpawn: {fileID: 8964444501318186785, guid: bfa5e0f05ab60b145ae6c53b241ce604, type: 3}
   victorySound: {fileID: 8300000, guid: 9d0e40adf90b76044a3f21d655b81edc, type: 3}
   victorySoundVolume: 0.5
