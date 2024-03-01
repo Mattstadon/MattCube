@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>WHO DISCOVERED THE CUBES</pattern>
+		<template>
+			<random>
+				<li>The discovery of the cubes was led by Dr. Helena Novak, a renowned archaeologist known for her groundbreaking discoveries in the field of ancient civilizations.</li>
+				<li>The cubes were discovered by Dr. Helena Novak and her team of archaeologists during an expedition in the Błędowska Desert, marking a pivotal moment in the history of archaeological discoveries.</li>
+				<li>Dr. Helena Novak and her team stumbled upon the cubes while conducting research in the Błędowska Desert, sparking international interest in the mysterious artifacts.</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern>TELL ME ABOUT THE CUBES</pattern>
+		<template>
+			<random>
+				<li>The discovery of the cubes in the Błędowska Desert by Dr. Helena Novak and her team sent shockwaves through the archaeological community, raising questions about their origin and purpose.</li>
+				<li>Dr. Helena Novak's groundbreaking discovery of the cubes in the Błędowska Desert marked a significant milestone in the field of archaeology, fueling speculation about their extraterrestrial origins.</li>
+				<li>The story of the discovery of the cubes by Dr. Helena Novak in the desolate expanse of the Błędowska Desert captured the imagination of the world, igniting a fervor of scientific inquiry and exploration.</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHERE WERE THE CUBES DISCOVERED</pattern>
+		<template>
+			<random>
+				<li>The cubes were discovered in the Błędowska Desert, a vast and desolate landscape in Poland, by Dr. Helena Novak and her team of archaeologists.</li>
+				<li>Dr. Helena Novak unearthed the cubes amidst the shifting sands of the Błędowska Desert, a remote and enigmatic location that held secrets dating back centuries.</li>
+				<li>The discovery of the cubes in the Błędowska Desert by Dr. Helena Novak shed light on the ancient mysteries hidden within the barren expanse of the Polish landscape.</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHAT ARE THE CUBES</pattern>
+		<template>
+			<random>
+				<li>The cubes discovered by Dr. Helena Novak in the Błędowska Desert are enigmatic artifacts of unknown origin, defying conventional explanations and raising questions about their purpose.</li>
+				<li>Dr. Helena Novak's discovery of the cubes in the Błędowska Desert presented a baffling enigma to the scientific community, with their pristine condition and indestructible nature hinting at a technology beyond human comprehension.</li>
+				<li>The cubes unearthed by Dr. Helena Novak in the Błędowska Desert remain a mystery shrouded in speculation, with their clean, white surfaces and indestructible properties defying explanation.</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHAT IS THE SIGNIFICANCE OF THE CUBES</pattern>
+		<template>
+			<random>
+				<li>The discovery of the cubes by Dr. Helena Novak represents a paradigm shift in our understanding of ancient civilizations and the possibility of extraterrestrial influence on human history.</li>
+				<li>Dr. Helena Novak's discovery of the cubes in the Błędowska Desert has profound implications for our understanding of ancient technology and the potential existence of advanced civilizations predating recorded history.</li>
+				<li>The cubes unearthed by Dr. Helena Novak in the Błędowska Desert have captivated the imagination of the world, sparking debates about their origin and significance in the context of human history.</li>
+			</random>
+		</template>
+	</category>
+	
+	<category>
+			<pattern>TELL ME ABOUT THE DISCOVERY OF THE CUBES</pattern>
+			<template>
+				The discovery of the cubes occurred during an archaeological expedition in the Błędowska Desert in the 1930s. Dr. Helena Novak and her team stumbled upon a series of clean, white cubes protruding from the sands, sparking intrigue and speculation about their origins and purpose.
+			</template>
+		</category>
+
+		<category>
+			<pattern>WHAT ARE THE CHARACTERISTICS OF THE CUBES</pattern>
+			<template>
+				The cubes are characterized by their pristine, indestructible nature. They appear as clean, white structures unaffected by the passage of time or environmental factors. Despite their simplicity in appearance, the cubes emanate an otherworldly energy and resist any attempts at destruction or damage.
+			</template>
+		</category>
+
+		<category>
+			<pattern>TELL ME ABOUT THE ARCHAEOLOGICAL EXPEDITION</pattern>
+			<template>
+				The archaeological expedition led by Dr. Helena Novak ventured into the Błędowska Desert with the objective of uncovering the mysteries concealed beneath its sands. The team faced challenges posed by the harsh desert environment but remained determined to explore the secrets hidden within the desolate landscape.
+			</template>
+		</category>
+
+		<category>
+			<pattern>WHAT ARE THE IMPLICATIONS OF THE CUBE DISCOVERY</pattern>
+			<template>
+				The discovery of the cubes has profound implications for humanity's understanding of its place in the universe. It raises questions about the existence of advanced civilizations or extraterrestrial beings capable of creating such enigmatic structures. The implications extend beyond archaeology to encompass broader philosophical and existential considerations.
+			</template>
+		</category>
+
+		<category>
+			<pattern>HOW DO THE CUBES RELATE TO ANCIENT HUMANS</pattern>
+			<template>
+				The cubes' clean, white appearance and indestructible nature suggest they were not created by ancient humans. Their presence in the Błędowska Desert challenges conventional theories about human history and technological development, hinting at the possibility of extraterrestrial intervention or the existence of advanced civilizations predating recorded history.
+			</template>
+		</category>
+
+		<category>
+			<pattern>WHAT ARE THE CUBES ORIGINS</pattern>
+			<template>
+				Various theories exist about the origins of the cubes. Some speculate they are remnants of a lost civilization with advanced technological capabilities. Others suggest they are artifacts of extraterrestrial origin, placed on Earth for unknown purposes. The true origins of the cubes remain a subject of debate and speculation among scholars and scientists.
+			</template>
+		</category>
+	</aiml>
+

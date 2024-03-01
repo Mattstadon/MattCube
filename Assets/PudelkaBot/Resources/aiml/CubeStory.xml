@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>WHAT IS THE STORY IN THE BOOK</pattern>
+		<template>
+			The story of the cubes revolves around the discovery of mysterious artifacts buried in the Błędowska Desert. These cubes, unearthed by archaeologists led by Dr. Helena Novak, defy conventional understanding with their indestructible material and intricate symbols. As the research progresses, the cubes reveal themselves to be more than mere relics, serving as conduits to hidden knowledge encoded within their puzzles. The unfolding events lead to a journey of exploration, collaboration, and revelation as humanity grapples with the implications of this extraordinary discovery.
+		</template>
+	</category>
+
+	<category>
+		<pattern>TELL ME ABOUT THE BOOK</pattern>
+		<template>
+			The Desert Discovery refers to the momentous archaeological expedition led by Dr. Helena Novak and her team in the Błędowska Desert. The discovery of enigmatic cubes buried beneath the sands sets off a chain of events that captivates the scientific community and the world at large. As the archaeologists delve deeper into the mystery, they uncover intricate patterns and symbols on the cubes, leading to a quest for deciphering their meaning and unlocking the secrets they hold about ancient civilizations and perhaps even extraterrestrial intelligence.
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHO ARE THE PEOPLE IN THE BOOK</pattern>
+		<template>
+			The people in the book include Dr. Helena Novak, a renowned archaeologist leading the expedition, whose expertise and determination drive the exploration of the cubes and their mysteries. Other key figures include Dr. Adam Jensen, a historian specializing in ancient scripts, who collaborates with Dr. Novak in deciphering the symbols on the cubes. Additionally, there's Dr. Maria Lopez, a scientist with expertise in advanced technologies, who assists in analyzing the cubes' material composition and possible extraterrestrial origins.
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHAT ARE THE IMPLICATIONS OF THE BOOK</pattern>
+		<template>
+			The discovery of the cubes carries profound implications for humanity's understanding of its place in the universe. Beyond their archaeological significance, the cubes challenge conventional scientific paradigms and raise questions about the nature of reality, the existence of advanced civilizations predating recorded history, and the possibility of extraterrestrial interactions with Earth. The implications ripple through scientific, philosophical, and cultural spheres, sparking debates and inspiring new avenues of exploration and discovery.
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHAT HAPPENS AFTER THE BOOK</pattern>
+		<template>
+			After the cube discovery, the world is abuzz with excitement and speculation as news of the unearthed artifacts spreads. International attention focuses on the Błędowska Desert, where archaeological teams converge to study the cubes and unravel their mysteries. Collaborative efforts across disciplines lead to breakthroughs in deciphering the symbols and understanding the cubes' purpose. However, the discovery also triggers controversy, skepticism, and geopolitical tensions as nations vie for influence and control over the newfound knowledge.
+		</template>
+	</category>
+</aiml>

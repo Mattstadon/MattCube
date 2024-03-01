@@ -16,3 +16,4 @@ MonoBehaviour:
   thingToSpawn: {fileID: 1480323650795277569, guid: 3fb714878ff34fa408d2e63f61835980, type: 3}
   victorySound: {fileID: 8300000, guid: 5a0fba3918ef0134eb959dc3f4c3d5cf, type: 3}
   victorySoundVolume: 0.7
+  displayText: {fileID: 0}

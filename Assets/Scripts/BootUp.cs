@@ -15,14 +15,14 @@ public class BootUp : MonoBehaviour
     [SerializeField] float typingSpeed = 0.1f; // Speed at which the text types out
     [SerializeField] GameObject[] panelsToDisable; // Array of panels to disable
 
-    private Button button; // Reference to the UI Button component
-
     private void Awake()
     {
-        button = GetComponent<Button>(); // Get the Button component
+        // Find the button component attached to this GameObject
+        Button button = GetComponent<Button>();
         if (button != null)
         {
-            button.onClick.AddListener(HandleButtonClick); // Subscribe to the onClick event
+            // Subscribe to the onClick event
+            button.onClick.AddListener(HandleButtonClick);
         }
     }
 
@@ -33,8 +33,12 @@ public class BootUp : MonoBehaviour
             sfxManager.PlaySFX(buttonClickSound, buttonClickVolume); // Play the sound effect
         }
 
-        // Disable the button to prevent further clicks
-        button.interactable = false;
+        // Disable all buttons in the scene
+        Button[] buttons = FindObjectsOfType<Button>();
+        foreach (Button btn in buttons)
+        {
+            btn.interactable = false;
+        }
 
         // Disable all panels
         foreach (GameObject panel in panelsToDisable)
@@ -93,3 +97,4 @@ public class BootUp : MonoBehaviour
         }
     }
 }
+

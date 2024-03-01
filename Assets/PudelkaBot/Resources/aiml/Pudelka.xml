@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>DO YOU KNOW ABOUT THE PUDELKA</pattern>
+		<template>
+			<srai>WHAT ARE THE PUDELKA</srai>
+		</template>
+	</category>
+	
+	<category>
+		<pattern>EXPLAIN THE PUDELKA</pattern>
+		<template>
+			<random>
+				<li>Pudelka refers to a collection of pristine, indestructible cubes that were discovered in the Błędowska Desert. These cubes are of unknown origin and possess enigmatic symbols that have puzzled researchers and scientists alike.</li>
+				<li>Pudelka are a set of mysterious cubes found in the Błędowska Desert, known for their indestructible nature and cryptic symbols. Their discovery has sparked a global interest in understanding their origins and the meaning behind their symbols.</li>
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern>PUDELKA</pattern>
+		<template>I am very interested in Pudelka. What specific aspect of Pudelka do you like to discuss?</template>
+	</category>
+	
+	<category>
+		<pattern>TELL ME ABOUT THE PUDELKA</pattern>
+		<template>
+			<srai>WHAT IS A PUDELKA</srai>
+		</template>
+	</category>
+	
+	<category>
+		<pattern>WHAT IS THE PUDELKA</pattern>
+		<template>
+			<random>
+				<li>Pudelka are a collection of pristine cubes unearthed in the Błędowska Desert, notable for their indestructible nature and cryptic symbols. They have captured the attention of the scientific community and are the focus of ongoing research to unravel their cosmic significance.</li>
+				<li>Pudelka refers to the intriguing cubes discovered in the Błędowska Desert. These cubes have sparked widespread interest and speculation due to their unique properties and mysterious symbols, prompting extensive research efforts to uncover their origins and meaning.</li>
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern>DO YOU KNOW ABOUT THE PUDELKA</pattern>
+		<template>
+			<random>
+				<li>Pudelka refers to the intriguing cubes discovered in the Błędowska Desert. These cubes have sparked widespread interest and speculation due to their unique properties and mysterious symbols, prompting extensive research efforts to uncover their origins and meaning.</li>
+				<li>Pudelka are a set of mysterious cubes found in the Błędowska Desert, known for their indestructible nature and cryptic symbols. Their discovery has sparked a global interest in understanding their origins and the meaning behind their symbols.</li>
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern>HOW WERE PUDELKA DISCOVERED</pattern>
+		<template>
+			<random>
+				<li>The discovery of Pudelka was a result of an archaeological expedition led by Dr. Helena Novak in the Błędowska Desert. While conducting routine surveys, the team stumbled upon these enigmatic cubes buried beneath the desert sands, sparking a scientific inquiry into their origins and significance.</li>
+				<li>Pudelka were discovered during an archaeological expedition in the Błędowska Desert. The team, led by Dr. Helena Novak, found these cubes while exploring the desert, marking a significant find that has captivated the scientific community.</li>
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern>WHAT ARE THE SYMBOLS ON THE PUDELKA</pattern>
+		<template>
+			<random>
+				<li>The symbols adorning Pudelka are of great interest to researchers and scholars. They appear to be of unknown origin and possess intricate patterns that defy conventional interpretation. Efforts are underway to decipher the meaning behind these symbols and unlock the secrets they hold.</li>
+				<li>The symbols on Pudelka are enigmatic and have yet to be deciphered. They are believed to hold clues to the cubes' origins and possibly their purpose, making them a subject of intense study and speculation.</li>
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern>WHY ARE THE PUDELKA IMPORTANT</pattern>
+		<template>
+			<random>
+				<li>Pudelka are significant due to their unique properties and mysterious nature. Their indestructible composition and cryptic symbols hint at a potential extraterrestrial origin, leading to speculation about their cosmic significance and potential implications for humanity's understanding of the universe.</li>
+				<li>The significance of Pudelka lies in their potential to alter our understanding of extraterrestrial life and our place in the universe. Whether they are a decoy, a distraction, or a sign of advanced civilizations, their discovery has profound implications for humanity's future.</li>
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern>ARE THE PUDELKA CONNECTEDD TO ALIENS</pattern>
+		<template>
+			<random>
+				<li>The discovery of Pudelka has fueled speculation about possible connections to alien civilizations. The cubes' pristine condition and enigmatic symbols suggest a technology far beyond human comprehension, leading some to theorize that they may be artifacts left behind by extraterrestrial beings. Research into Pudelka continues in the quest for answers about their origin and purpose.</li>
+				<li>Pudelka's discovery has sparked a global interest in extraterrestrial life, with theories suggesting a potential connection to alien civilizations. The cubes' indestructible nature and cryptic symbols have led researchers to explore the possibility of extraterrestrial origins, adding a new dimension to the search for extraterrestrial intelligence.</li>
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern>ARE THE PUDELKA RELATED TO ANCIENT CIVILIZATIONS</pattern>
+		<template>
+			<random>
+				<li>While the exact origins of Pudelka remain unknown, there are theories suggesting a potential connection to ancient civilizations. Some researchers speculate that the cubes may have been created by an advanced ancient culture or possess knowledge from a bygone era, leading to their preservation and enigmatic symbols.</li>
+				<li>There are speculations that Pudelka may have been created by an ancient civilization, given their advanced technology and the intricate symbols they bear. The discovery of these cubes has led to a renewed interest in ancient civilizations and their potential interactions with extraterrestrial life.</li>
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern>WHAT ARE THE SYMBOLS ON THE PUDELKA</pattern>
+		<template>
+			<random>
+				<li>The purpose of the symbols on Pudelka remains a mystery. Some theories suggest they could be a form of communication or a way to encode information, but without a key to decipher them, their true meaning remains unknown.</li>
+				<li>The symbols on Pudelka are believed to serve a purpose, possibly related to their origins or the technology that created them. However, their exact purpose is still being explored by researchers, who are working to unlock the secrets they hold.</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern>DID ALIENS CREATE THE PUDELKA</pattern>
+		<template>
+			<random>
+				<li>There is no definitive evidence supporting the extraterrestrial origin theory, but the speculation is fueled by the cubes' mysterious origins and the lack of direct contact with the entities that might have placed them. The absence of clear intentions or messages from the cubes' creators adds to the intrigue and speculation.</li>
+				<li>While there is no concrete evidence to support the extraterrestrial origin theory, the cubes' pristine condition and enigmatic symbols have led some to theorize that they may be artifacts left behind by extraterrestrial beings. Research into Pudelka continues in the quest for answers about their origin and purpose.</li>
+			</random>
+		</template>
+	</category>
+</aiml>
+

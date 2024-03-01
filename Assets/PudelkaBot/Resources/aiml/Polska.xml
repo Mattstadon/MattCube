@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<aiml>
+	<category>
+		<pattern>WHAT IS THE POLISH ACADEMY OF SCIENCES</pattern>
+		<template>
+			The Polish Academy of Sciences is a state-sponsored institution of higher learning headquartered in Warsaw, Poland. It is responsible for spearheading the development of science across the country by a society of distinguished scholars and a network of research institutes.
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHERE IS THE POLISH ACADEMY OF SCIENCES LOCATED</pattern>
+		<template>
+			The Polish Academy of Sciences is headquartered in Warsaw, the capital city of Poland.
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHAT IS THE ROLE OF THE POLISH ACADEMY OF SCIENCES</pattern>
+		<template>
+			The Polish Academy of Sciences plays a pivotal role in advancing scientific research and education in Poland. It fosters collaboration among scholars and research institutes to promote innovation and excellence in various fields of study.
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHO ARE THE MEMBERS OF THE POLISH ACADEMY OF SCIENCES</pattern>
+		<template>
+			The Polish Academy of Sciences comprises a society of distinguished scholars and researchers who are elected based on their contributions to their respective fields of study. The members of the Academy are leaders in their disciplines and play a key role in shaping the scientific landscape of Poland.
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHAT ARE THE RESEARCH INSTITUTES AFFILIATED WITH THE POLISH ACADEMY OF SCIENCES</pattern>
+		<template>
+			The Polish Academy of Sciences is affiliated with a network of research institutes covering various scientific disciplines, including physics, chemistry, biology, mathematics, and social sciences. These institutes conduct cutting-edge research and contribute to the advancement of knowledge in their respective fields.
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHAT IS THE POLISH ACADEMY OF SCIENCES</pattern>
+		<template>
+			The Polish Academy of Sciences is a prestigious institution in Poland responsible for funding and overseeing scientific research projects, including the groundbreaking cube discovery expedition.
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHAT DID THE POLISH ACADEMY OF SCIENCES DISCOVER</pattern>
+		<template>
+			The Polish Academy of Sciences funded and led the expedition that discovered the enigmatic cubes, a remarkable scientific breakthrough that has captivated the world.
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHO FUNDED THE CUBE DISCOVERY PROJECT</pattern>
+		<template>
+			The cube discovery project was funded by the Polish Academy of Sciences, demonstrating their commitment to advancing scientific knowledge and exploration.
+		</template>
+	</category>
+
+	<category>
+		<pattern>HOW WAS THE CUBE DISCOVERY EXPEDITION FUNDED</pattern>
+		<template>
+			The cube discovery expedition was funded by the Polish Academy of Sciences, highlighting their role in supporting scientific exploration and discovery projects.
+		</template>
+	</category>
+</aiml>
+
