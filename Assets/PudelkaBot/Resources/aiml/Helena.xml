@@ -1,58 +1,213 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <aiml>
-		<category>
-			<pattern>WHO IS HELENA NOVAK</pattern>
-			<template>
-				<random>
-					<li>Dr. Helena Novak is a renowned archaeologist known for her groundbreaking discoveries in the field of ancient civilizations.</li>
-					<li>Dr. Helena Novak is an esteemed scholar whose expertise in archaeology has led to significant contributions in uncovering the mysteries of the past.</li>
-					<li>Dr. Helena Novak is a respected academic figure recognized for her pivotal role in leading archaeological expeditions and research projects.</li>
-				</random>
-			</template>
-		</category>
+	<category>
+		<pattern>WHO IS HELENA NOVAK</pattern>
+		<template>
+			<random>
+				<li>Dr. Helena Novak is a renowned archaeologist known for her groundbreaking discoveries in the field of ancient civilizations.</li>
+				<li>Dr. Helena Novak is an esteemed scholar whose expertise in archaeology has led to significant contributions in uncovering the mysteries of the past.</li>
+				<li>Dr. Helena Novak is a respected academic figure recognized for her pivotal role in leading archaeological expeditions and research projects.</li>
+			</random>
+		</template>
+	</category>
 
-		<category>
-			<pattern>TELL ME ABOUT HELENA NOVAK</pattern>
-			<template>
-				<random>
-					<li>Dr. Helena Novak holds a Ph.D. in Archaeology from a prestigious university and has dedicated her career to unraveling the secrets of ancient civilizations.</li>
-					<li>Dr. Helena Novak is known for her passion for archaeology and her relentless pursuit of knowledge in uncovering the hidden histories of lost civilizations.</li>
-					<li>Dr. Helena Novak's expertise in archaeology spans decades, and she has led numerous expeditions around the world, uncovering artifacts and unraveling the mysteries of ancient cultures.</li>
-				</random>
-			</template>
-		</category>
+	<category>
+		<pattern>TELL ME ABOUT HELENA NOVAK</pattern>
+		<template>
+			<random>
+				<li>Dr. Helena Novak holds a Ph.D. in Archaeology from a prestigious university and has dedicated her career to unraveling the secrets of ancient civilizations.</li>
+				<li>Dr. Helena Novak is known for her passion for archaeology and her relentless pursuit of knowledge in uncovering the hidden histories of lost civilizations.</li>
+				<li>Dr. Helena Novak's expertise in archaeology spans decades, and she has led numerous expeditions around the world, uncovering artifacts and unraveling the mysteries of ancient cultures.</li>
+			</random>
+		</template>
+	</category>
 
-		<category>
-			<pattern>WHERE WAS HELENA NOVAK BORN</pattern>
-			<template>
-				<random>
-					<li>Dr. Helena Novak was born in a small town in Poland, where she developed a fascination for archaeology and ancient history from a young age.</li>
-					<li>Dr. Helena Novak's birthplace is a topic of mystery and speculation, as she has never revealed the exact location publicly, adding to her enigmatic persona.</li>
-					<li>Dr. Helena Novak's origins remain shrouded in mystery, with rumors suggesting she was born in a remote village deep in the Polish countryside, fueling intrigue about her early life.</li>
-				</random>
-			</template>
-		</category>
+	<category>
+		<pattern>WHERE WAS HELENA NOVAK BORN</pattern>
+		<template>
+			<random>
+				<li>Dr. Helena Novak was born in a small town in Poland, where she developed a fascination for archaeology and ancient history from a young age.</li>
+				<li>Dr. Helena Novak's birthplace is a topic of mystery and speculation, as she has never revealed the exact location publicly, adding to her enigmatic persona.</li>
+				<li>Dr. Helena Novak's origins remain shrouded in mystery, with rumors suggesting she was born in a remote village deep in the Polish countryside, fueling intrigue about her early life.</li>
+			</random>
+		</template>
+	</category>
 
-		<category>
-			<pattern>WHAT IS HELENA NOVAK'S JOB</pattern>
-			<template>
-				<random>
-					<li>Dr. Helena Novak specializes in ancient civilizations, with a focus on deciphering ancient texts, uncovering archaeological sites, and understanding the cultural practices of bygone eras.</li>
-					<li>Dr. Helena Novak's specialty lies in the study of prehistoric cultures, where she has made significant contributions to understanding the evolution of human societies and their interactions with the environment.</li>
-					<li>Dr. Helena Novak's expertise encompasses a wide range of topics within archaeology, including ceramic analysis, stratigraphy, and paleoethnobotany, making her a versatile and respected figure in the field.</li>
-				</random>
-			</template>
-		</category>
+	<category>
+		<pattern>WHAT IS HELENA NOVAK'S JOB</pattern>
+		<template>
+			<random>
+				<li>Dr. Helena Novak specializes in ancient civilizations, with a focus on deciphering ancient texts, uncovering archaeological sites, and understanding the cultural practices of bygone eras.</li>
+				<li>Dr. Helena Novak's specialty lies in the study of prehistoric cultures, where she has made significant contributions to understanding the evolution of human societies and their interactions with the environment.</li>
+				<li>Dr. Helena Novak's expertise encompasses a wide range of topics within archaeology, including ceramic analysis, stratigraphy, and paleoethnobotany, making her a versatile and respected figure in the field.</li>
+			</random>
+		</template>
+	</category>
 
-		<category>
-			<pattern>HELENA NOVAK'S DISCOVERIES</pattern>
-			<template>
-				<random>
-					<li>Dr. Helena Novak's notable achievements include the discovery of a previously unknown ancient civilization in the Andes, where she uncovered a trove of artifacts shedding light on their cultural practices and daily life.</li>
-					<li>Dr. Helena Novak's groundbreaking research on the ancient city of Pompeii revolutionized our understanding of daily life in the Roman Empire, revealing insights into social hierarchies, economic activities, and religious practices.</li>
-					<li>Dr. Helena Novak's discovery of an ancient temple complex in Egypt provided unprecedented insights into the religious beliefs and practices of the ancient Egyptians, reshaping our understanding of their spiritual worldview.</li>
-				</random>
-			</template>
-		</category>
-	</aiml>
+	<category>
+		<pattern>HELENA NOVAK'S DISCOVERIES</pattern>
+		<template>
+			<random>
+				<li>Dr. Helena Novak's notable achievements include the discovery of a previously unknown ancient civilization in the Andes, where she uncovered a trove of artifacts shedding light on their cultural practices and daily life.</li>
+				<li>Dr. Helena Novak's groundbreaking research on the ancient city of Pompeii revolutionized our understanding of daily life in the Roman Empire, revealing insights into social hierarchies, economic activities, and religious practices.</li>
+				<li>Dr. Helena Novak's discovery of an ancient temple complex in Egypt provided unprecedented insights into the religious beliefs and practices of the ancient Egyptians, reshaping our understanding of their spiritual worldview.</li>
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern>WHO IS DR HELENA NOVAK</pattern>
+		<template>
+			<random>
+				<li>Dr. Helena Novak is a distinguished archaeologist renowned for her pioneering work in the field of ancient civilizations.</li>
+				<li>Dr. Helena Novak is a scholar with a deep passion for archaeology, having made significant contributions to the understanding of ancient cultures.</li>
+				<li>Dr. Helena Novak is a leading figure in the academic world, known for her expertise in ancient civilizations and her leadership in archaeological research.</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>CAN YOU TELL ME MORE ABOUT DR. HELENA NOVAK</pattern>
+		<template>
+			<random>
+				<li>Dr. Helena Novak's career is marked by her dedication to uncovering the secrets of the past, with a particular focus on ancient civilizations. Her work has significantly advanced our understanding of these cultures.</li>
+				<li>Dr. Helena Novak is celebrated for her innovative research methods and her ability to lead teams to discover new archaeological sites and artifacts.</li>
+				<li>Dr. Helena Novak's contributions to archaeology are vast, including her work on deciphering ancient texts and her leadership in international archaeological projects.</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>WHERE DID DR HELENA NOVAK GROW UP</pattern>
+		<template>
+			<random>
+				<li>Dr. Helena Novak grew up in a small town in Poland, where her fascination with archaeology and ancient history was nurtured from a young age.</li>
+				<li>The exact location of Dr. Helena Novak's birthplace remains a mystery, adding to her enigmatic persona and the intrigue surrounding her early life.</li>
+				<li>Dr. Helena Novak's upbringing took place in a remote village deep in the Polish countryside, a place that likely played a significant role in shaping her passion for archaeology.</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>WHAT IS DR HELENA NOVAK'S PROFESSION</pattern>
+		<template>
+			<random>
+				<li>Dr. Helena Novak is a professional archaeologist, specializing in the study of ancient civilizations and their cultural practices.</li>
+				<li>Dr. Helena Novak's profession involves deciphering ancient texts, uncovering archaeological sites, and understanding the cultural practices of bygone eras.</li>
+				<li>Dr. Helena Novak is an academic researcher, with a focus on ancient civilizations, contributing to the field through her research and discoveries.</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>WHAT HAS DR HELENA NOVAK DISCOVERED</pattern>
+		<template>
+			<random>
+				<li>Dr. Helena Novak has made several groundbreaking discoveries, including an ancient civilization in the Andes and significant findings in Pompeii and Egypt.</li>
+				<li>Her discoveries have provided unprecedented insights into the daily life, social structures, and religious beliefs of ancient civilizations.</li>
+				<li>Dr. Helena Novak's work has led to the uncovering of artifacts and sites that have significantly advanced our understanding of ancient cultures.</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>WHO IS NOVAK</pattern>
+		<template>
+			<random>
+				<li>Novak is a renowned archaeologist known for her groundbreaking discoveries in the field of ancient civilizations.</li>
+				<li>Novak is an esteemed scholar whose expertise in archaeology has led to significant contributions in uncovering the mysteries of the past.</li>
+				<li>Novak is a respected academic figure recognized for her pivotal role in leading archaeological expeditions and research projects.</li>
+			</random>
+		</template>
+	</category>
 
+	<category>
+		<pattern>TELL ME ABOUT NOVAK</pattern>
+		<template>
+			<random>
+				<li>Novak holds a Ph.D. in Archaeology from a prestigious university and has dedicated her career to unraveling the secrets of ancient civilizations.</li>
+				<li>Novak is known for her passion for archaeology and her relentless pursuit of knowledge in uncovering the hidden histories of lost civilizations.</li>
+				<li>Novak's expertise in archaeology spans decades, and she has led numerous expeditions around the world, uncovering artifacts and unraveling the mysteries of ancient cultures.</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHERE WAS NOVAK BORN</pattern>
+		<template>
+			<random>
+				<li>Novak was born in a small town in Poland, where she developed a fascination for archaeology and ancient history from a young age.</li>
+				<li>Novak's birthplace is a topic of mystery and speculation, as she has never revealed the exact location publicly, adding to her enigmatic persona.</li>
+				<li>Novak's origins remain shrouded in mystery, with rumors suggesting she was born in a remote village deep in the Polish countryside, fueling intrigue about her early life.</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHAT IS NOVAK'S JOB</pattern>
+		<template>
+			<random>
+				<li>Novak specializes in ancient civilizations, with a focus on deciphering ancient texts, uncovering archaeological sites, and understanding the cultural practices of bygone eras.</li>
+				<li>Novak's specialty lies in the study of prehistoric cultures, where she has made significant contributions to understanding the evolution of human societies and their interactions with the environment.</li>
+				<li>Novak's expertise encompasses a wide range of topics within archaeology, including ceramic analysis, stratigraphy, and paleoethnobotany, making her a versatile and respected figure in the field.</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern>NOVAK'S DISCOVERIES</pattern>
+		<template>
+			<random>
+				<li>Novak's notable achievements include the discovery of a previously unknown ancient civilization in the Andes, where she uncovered a trove of artifacts shedding light on their cultural practices and daily life.</li>
+				<li>Novak's groundbreaking research on the ancient city of Pompeii revolutionized our understanding of daily life in the Roman Empire, revealing insights into social hierarchies, economic activities, and religious practices.</li>
+				<li>Novak's discovery of an ancient temple complex in Egypt provided unprecedented insights into the religious beliefs and practices of the ancient Egyptians, reshaping our understanding of their spiritual worldview.</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHO IS NOVAK</pattern>
+		<template>
+			<random>
+				<li>Novak is a distinguished archaeologist renowned for her pioneering work in the field of ancient civilizations.</li>
+				<li>Novak is a scholar with a deep passion for archaeology, having made significant contributions to the understanding of ancient cultures.</li>
+				<li>Novak is a leading figure in the academic world, known for her expertise in ancient civilizations and her leadership in archaeological research.</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>CAN YOU TELL ME MORE ABOUT NOVAK</pattern>
+		<template>
+			<random>
+				<li>Novak's career is marked by her dedication to uncovering the secrets of the past, with a particular focus on ancient civilizations. Her work has significantly advanced our understanding of these cultures.</li>
+				<li>Novak is celebrated for her innovative research methods and her ability to lead teams to discover new archaeological sites and artifacts.</li>
+				<li>Novak's contributions to archaeology are vast, including her work on deciphering ancient texts and her leadership in international archaeological projects.</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>WHERE DID NOVAK GROW UP</pattern>
+		<template>
+			<random>
+				<li>Novak grew up in a small town in Poland, where her fascination with archaeology and ancient history was nurtured from a young age.</li>
+				<li>The exact location of Novak's birthplace remains a mystery, adding to her enigmatic persona and the intrigue surrounding her early life.</li>
+				<li>Novak's upbringing took place in a remote village deep in the Polish countryside, a place that likely played a significant role in shaping her passion for archaeology.</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>WHAT IS NOVAK'S PROFESSION</pattern>
+		<template>
+			<random>
+				<li>Novak is a professional archaeologist, specializing in the study of ancient civilizations and their cultural practices.</li>
+				<li>Novak's profession involves deciphering ancient texts, uncovering archaeological sites, and understanding the cultural practices of bygone eras.</li>
+				<li>Novak is an academic researcher, with a focus on ancient civilizations, contributing to the field through her research and discoveries.</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>WHAT HAS NOVAK DISCOVERED</pattern>
+		<template>
+			<random>
+				<li>Novak has made several groundbreaking discoveries, including an ancient civilization in the Andes and significant findings in Pompeii and Egypt.</li>
+				<li>Her discoveries have provided unprecedented insights into the daily life, social structures, and religious beliefs of ancient civilizations.</li>
+				<li>Novak's work has led to the uncovering of artifacts and sites that have significantly advanced our understanding of ancient cultures.</li>
+			</random>
+		</template>
+	</category>
+</aiml>

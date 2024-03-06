@@ -1638,7 +1638,7 @@ MonoBehaviour:
   displayText: {fileID: 1471273763}
   sceneName: Boot Up
   delay: 2.5
-  fullText: Shutting down...
+  fullText: Cache CLEARED... Exiting...
   typingSpeed: 0.1
 --- !u!1 &577963452
 GameObject:
@@ -1712,7 +1712,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &659441523
 Transform:
   m_ObjectHideFlags: 0
@@ -7924,8 +7924,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 72, y: -180.2}
-  m_SizeDelta: {x: 300, y: 50}
+  m_AnchoredPosition: {x: 14, y: -323}
+  m_SizeDelta: {x: 200, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1471273763
 MonoBehaviour:
@@ -7954,7 +7954,7 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 2
     m_MaxSize: 40
-    m_Alignment: 0
+    m_Alignment: 2
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0

@@ -6,7 +6,7 @@
 			<srai>WHAT ARE THE PUDELKA</srai>
 		</template>
 	</category>
-	
+
 	<category>
 		<pattern>EXPLAIN THE PUDELKA</pattern>
 		<template>
@@ -16,19 +16,19 @@
 			</random>
 		</template>
 	</category>
-	
+
 	<category>
 		<pattern>PUDELKA</pattern>
 		<template>I am very interested in Pudelka. What specific aspect of Pudelka do you like to discuss?</template>
 	</category>
-	
+
 	<category>
 		<pattern>TELL ME ABOUT THE PUDELKA</pattern>
 		<template>
 			<srai>WHAT IS A PUDELKA</srai>
 		</template>
 	</category>
-	
+
 	<category>
 		<pattern>WHAT IS THE PUDELKA</pattern>
 		<template>
@@ -38,7 +38,7 @@
 			</random>
 		</template>
 	</category>
-	
+
 	<category>
 		<pattern>DO YOU KNOW ABOUT THE PUDELKA</pattern>
 		<template>
@@ -48,7 +48,7 @@
 			</random>
 		</template>
 	</category>
-	
+
 	<category>
 		<pattern>HOW WERE PUDELKA DISCOVERED</pattern>
 		<template>
@@ -58,7 +58,7 @@
 			</random>
 		</template>
 	</category>
-	
+
 	<category>
 		<pattern>WHAT ARE THE SYMBOLS ON THE PUDELKA</pattern>
 		<template>
@@ -68,7 +68,7 @@
 			</random>
 		</template>
 	</category>
-	
+
 	<category>
 		<pattern>WHY ARE THE PUDELKA IMPORTANT</pattern>
 		<template>
@@ -78,9 +78,9 @@
 			</random>
 		</template>
 	</category>
-	
+
 	<category>
-		<pattern>ARE THE PUDELKA CONNECTEDD TO ALIENS</pattern>
+		<pattern>ARE THE PUDELKA CONNECTED TO ALIENS</pattern>
 		<template>
 			<random>
 				<li>The discovery of Pudelka has fueled speculation about possible connections to alien civilizations. The cubes' pristine condition and enigmatic symbols suggest a technology far beyond human comprehension, leading some to theorize that they may be artifacts left behind by extraterrestrial beings. Research into Pudelka continues in the quest for answers about their origin and purpose.</li>
@@ -88,7 +88,7 @@
 			</random>
 		</template>
 	</category>
-	
+
 	<category>
 		<pattern>ARE THE PUDELKA RELATED TO ANCIENT CIVILIZATIONS</pattern>
 		<template>
@@ -98,7 +98,7 @@
 			</random>
 		</template>
 	</category>
-	
+
 	<category>
 		<pattern>WHAT ARE THE SYMBOLS ON THE PUDELKA</pattern>
 		<template>
@@ -118,5 +118,63 @@
 			</random>
 		</template>
 	</category>
-</aiml>
 
+	<category>
+		<pattern>CAN YOU PROVIDE MORE DETAILS ON THE PUDELKA</pattern>
+		<template>
+			<random>
+				<li>The Pudelka are fascinating objects of study due to their indestructible nature and the cryptic symbols they bear. Researchers are exploring various theories about their origins, including the possibility of extraterrestrial or ancient civilization involvement. The symbols' meaning remains a mystery, adding to the intrigue surrounding these cubes.</li>
+				<li>The Pudelka have captured the imagination of the scientific community with their mysterious symbols and indestructible composition. While the exact origins are still under investigation, the cubes' discovery has sparked a global interest in understanding their cosmic significance and the potential implications for humanity's understanding of the universe.</li>
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern>WHAT IS THE SIGNIFICANCE OF THE PUDELKA</pattern>
+		<template>
+			<random>
+				<li>The significance of the Pudelka lies in their potential to alter our understanding of extraterrestrial life and our place in the universe. Their discovery has sparked a global interest in extraterrestrial</li>
+			</random>
+		</template>
+		</category>
+
+	<category>
+					<pattern>WHAT IS THE SIGNIFICANCE OF THE PUDELKA</pattern>
+					<template>
+						<random>
+							<li>The significance of the Pudelka lies in their potential to alter our understanding of extraterrestrial life and our place in the universe. Their discovery has sparked a global interest in extraterrestrial life, with theories suggesting a potential connection to alien civilizations. The cubes' indestructible nature and cryptic symbols have led researchers to explore the possibility of extraterrestrial origins, adding a new dimension to the search for extraterrestrial intelligence.</li>
+							<li>The Pudelka's significance is multifaceted. Their discovery has not only piqued the curiosity of scientists and researchers but also raised questions about the nature of extraterrestrial life and the potential for advanced civilizations to interact with our own. The indestructible nature of the cubes and the enigmatic symbols they bear suggest a level of technology and knowledge far beyond what we currently possess, prompting ongoing research to uncover their origins and purpose.</li>
+						</random>
+					</template>
+				</category>
+
+				<category>
+					<pattern>ARE THE PUDELKA A SIGN OF ADVANCED CIVILIZATIONS</pattern>
+					<template>
+						<random>
+							<li>Theories suggest that the Pudelka could be a sign of advanced civilizations, either from our own past or from extraterrestrial beings. Their indestructible nature and the intricate symbols they bear hint at a level of technology and knowledge that challenges our current understanding of the universe. The ongoing research into the Pudelka continues to explore these possibilities, aiming to uncover the secrets they hold and gain insights into the cosmic significance of these mysterious cubes.</li>
+							<li>The Pudelka's discovery has led some to theorize that they might be a sign of advanced civilizations, either from our own past or from extraterrestrial beings. The cubes' indestructible nature and cryptic symbols have sparked a global interest in understanding their origins and the potential implications for humanity's future. Research into the Pudelka continues to explore these possibilities, adding a new dimension to the search for extraterrestrial intelligence and the history of our own civilization.</li>
+						</random>
+					</template>
+				</category>
+
+				<category>
+					<pattern>WHAT IS THE PURPOSE OF THE SYMBOLS ON THE PUDELKA</pattern>
+					<template>
+						<random>
+							<li>The purpose of the symbols on the Pudelka remains a mystery. Some theories suggest they could serve as a form of communication or a way to encode information. However, without a key to decipher them, their true meaning remains unknown. The ongoing research into the Pudelka aims to unlock the secrets behind these symbols, which could provide insights into the cubes' origins and the civilization that created them.</li>
+							<li>The symbols on the Pudelka are believed to serve a purpose, possibly related to their origins or the technology that created them. However, their exact purpose is still being explored by researchers, who are working to unlock the secrets they hold. The discovery of these cubes has led to a renewed interest in ancient civilizations and their potential interactions with extraterrestrial life, adding a new dimension to the search for extraterrestrial intelligence.</li>
+						</random>
+					</template>
+				</category>
+
+				<category>
+					<pattern>ARE THE PUDELKA A MESSAGE FROM ALIENS</pattern>
+					<template>
+						<random>
+							<li>While there is no definitive evidence to support the theory that the Pudelka are a message from aliens, the cubes' mysterious origins and the lack of direct contact with the entities that might have placed them have fueled speculation. The absence of clear intentions or messages from the cubes' creators adds to the intrigue and speculation. Research into the Pudelka continues in the quest for answers about their origin and purpose, with the possibility of extraterrestrial involvement remaining a compelling hypothesis.</li>
+							<li>The Pudelka's discovery has sparked a global interest in extraterrestrial life, with theories suggesting a potential connection to alien civilizations. The cubes' indestructible nature and cryptic symbols have led researchers to explore the possibility of extraterrestrial origins, adding a new dimension to the search for extraterrestrial intelligence. While there is no concrete evidence to support the extraterrestrial origin theory, the ongoing research into the Pudelka continues to explore these possibilities, aiming to uncover the secrets they hold and gain insights into the cosmic significance of these mysterious cubes.</li>
+						</random>
+					</template>
+				</category>
+			

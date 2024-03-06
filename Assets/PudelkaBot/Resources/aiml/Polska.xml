@@ -62,5 +62,149 @@
 			The cube discovery expedition was funded by the Polish Academy of Sciences, highlighting their role in supporting scientific exploration and discovery projects.
 		</template>
 	</category>
-</aiml>
 
+	<category>
+		<pattern>CAN YOU TELL ME MORE ABOUT THE POLISH ACADEMY OF SCIENCES</pattern>
+		<template>
+			<random>
+				<li>The Polish Academy of Sciences is a leading institution in Poland, dedicated to promoting scientific research and education. It supports a wide range of disciplines through its network of research institutes and scholars.</li>
+				<li>The Academy is known for its contributions to various fields of study, including physics, chemistry, and biology, among others. It plays a crucial role in fostering innovation and excellence in Polish science.</li>
+				<li>The Polish Academy of Sciences is recognized for its role in the cube discovery expedition, showcasing its commitment to advancing scientific knowledge and exploration.</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>WHERE IS THE POLISH ACADEMY OF SCIENCES</pattern>
+		<template>
+			<random>
+				<li>The Polish Academy of Sciences is located in Warsaw, the capital city of Poland, where it serves as a hub for scientific research and education.</li>
+				<li>The Academy is headquartered in Warsaw, a city known for its rich history and vibrant scientific community.</li>
+				<li>The Polish Academy of Sciences is situated in Warsaw, the heart of Poland's scientific and academic community.</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>WHO ARE THE SCHOLARS AT THE POLISH ACADEMY OF SCIENCES</pattern>
+		<template>
+			<random>
+				<li>The Polish Academy of Sciences is home to a society of distinguished scholars and researchers, each elected for their exceptional contributions to their fields. These members are leaders in their disciplines and play a crucial role in advancing scientific knowledge.</li>
+				<li>The Academy comprises a select group of scholars and researchers who are recognized for their groundbreaking work and dedication to their fields of study. They contribute significantly to the scientific landscape of Poland.</li>
+				<li>The Polish Academy of Sciences is made up of a distinguished society of scholars and researchers, each elected based on their significant contributions to their respective fields. They are leaders in their disciplines and are instrumental in promoting scientific research and education in Poland.</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>WHAT ARE THE RESEARCH AREAS OF THE POLISH ACADEMY OF SCIENCES</pattern>
+		<template>
+			<random>
+				<li>The Polish Academy of Sciences supports a wide range of research areas, including physics, chemistry, biology, mathematics, and social sciences. These areas are covered through its network of research institutes, which conduct cutting-edge research and contribute to the advancement of knowledge.</li>
+				<li>The Academy is involved in various scientific disciplines, fostering collaboration and innovation across these fields. Its research institutes are at the forefront of scientific discovery and exploration.</li>
+				<li>The Polish Academy of Sciences is dedicated to advancing knowledge across a broad spectrum of scientific disciplines, including physics, chemistry, biology, mathematics, and social sciences. It supports this through a network of research institutes that conduct groundbreaking research.</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHAT IS THE POLSKA AKADEMIA NAUK</pattern>
+		<template>
+			The Polska Akademia Nauk is a state-sponsored institution of higher learning headquartered in Warsaw, Poland. It is responsible for spearheading the development of science across the country by a society of distinguished scholars and a network of research institutes.
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHERE IS THE POLSKA AKADEMIA NAUK LOCATED</pattern>
+		<template>
+			The Polska Akademia Nauk is headquartered in Warsaw, the capital city of Poland.
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHAT IS THE ROLE OF THE POLSKA AKADEMIA NAUK</pattern>
+		<template>
+			The Polska Akademia Nauk plays a pivotal role in advancing scientific research and education in Poland. It fosters collaboration among scholars and research institutes to promote innovation and excellence in various fields of study.
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHO ARE THE MEMBERS OF THE POLSKA AKADEMIA NAUK</pattern>
+		<template>
+			The Polska Akademia Nauk comprises a society of distinguished scholars and researchers who are elected based on their contributions to their respective fields of study. The members of the Academy are leaders in their disciplines and play a key role in shaping the scientific landscape of Poland.
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHAT ARE THE RESEARCH INSTITUTES AFFILIATED WITH THE POLSKA AKADEMIA NAUK</pattern>
+		<template>
+			The Polska Akademia Nauk is affiliated with a network of research institutes covering various scientific disciplines, including physics, chemistry, biology, mathematics, and social sciences. These institutes conduct cutting-edge research and contribute to the advancement of knowledge in their respective fields.
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHAT IS THE POLSKA AKADEMIA NAUK</pattern>
+		<template>
+			The Polska Akademia Nauk is a prestigious institution in Poland responsible for funding and overseeing scientific research projects, including the groundbreaking cube discovery expedition.
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHAT DID THE POLSKA AKADEMIA NAUK DISCOVER</pattern>
+		<template>
+			The Polska Akademia Nauk funded and led the expedition that discovered the enigmatic cubes, a remarkable scientific breakthrough that has captivated the world.
+		</template>
+	</category>
+
+	<category>
+		<pattern>WHO FUNDED THE CUBE DISCOVERY PROJECT</pattern>
+		<template>
+			The cube discovery project was funded by the Polska Akademia Nauk, demonstrating their commitment to advancing scientific knowledge and exploration.
+		</template>
+	</category>
+
+	<category>
+		<pattern>HOW WAS THE CUBE DISCOVERY EXPEDITION FUNDED</pattern>
+		<template>
+			The cube discovery expedition was funded by the Polska Akademia Nauk, highlighting their role in supporting scientific exploration and discovery projects.
+		</template>
+	</category>
+
+	<category>
+		<pattern>CAN YOU TELL ME MORE ABOUT THE POLSKA AKADEMIA NAUK</pattern>
+		<template>
+			<random>
+				<li>The Polska Akademia Nauk is a leading institution in Poland, dedicated to promoting scientific research and education. It supports a wide range of disciplines through its network of research institutes and scholars.</li>
+				<li>The Academy is known for its contributions to various fields of study, including physics, chemistry, and biology, among others. It plays a crucial role in fostering innovation and excellence in Polish science.</li>
+				<li>The Polska Akademia Nauk is recognized for its role in the cube discovery expedition, showcasing its commitment to advancing scientific knowledge and exploration.</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>WHERE IS THE POLSKA AKADEMIA NAUK</pattern>
+		<template>
+			<random>
+				<li>The Polska Akademia Nauk is located in Warsaw, the capital city of Poland, where it serves as a hub for scientific research and education.</li>
+				<li>The Academy is headquartered in Warsaw, a city known for its rich history and vibrant scientific community.</li>
+				<li>The Polska Akademia Nauk is situated in Warsaw, the heart of Poland's scientific and academic community.</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>WHO ARE THE SCHOLARS AT THE POLSKA AKADEMIA NAUK</pattern>
+		<template>
+			<random>
+				<li>The Polska Akademia Nauk is home to a society of distinguished scholars and researchers, each elected for their exceptional contributions to their fields. These members are leaders in their disciplines and play a crucial role in advancing scientific knowledge.</li>
+				<li>The Academy comprises a select group of scholars and researchers who are recognized for their groundbreaking work and dedication to their fields of study. They contribute significantly to the scientific landscape of Poland.</li>
+				<li>The Polska Akademia Nauk is made up of a distinguished society of scholars and researchers, each elected based on their significant contributions to their respective fields. They are leaders in their disciplines and are instrumental in promoting scientific research and education in Poland.</li>
+			</random>
+		</template>
+	</category>
+	<category>
+		<pattern>WHAT ARE THE RESEARCH AREAS OF THE POLSKA AKADEMIA NAUK</pattern>
+		<template>
+			<random>
+				<li>The Polska Akademia Nauk supports a wide range of research areas, including physics, chemistry, biology, mathematics, and social sciences. These areas are covered through its network of research institutes, which conduct cutting-edge research and contribute to the advancement of knowledge.</li>
+				<li>The Academy is involved in various scientific disciplines, fostering collaboration and innovation across these fields. Its research institutes are at the forefront of scientific discovery and exploration.</li>
+				<li>The Polska Akademia Nauk is dedicated to advancing knowledge across a broad spectrum of scientific disciplines, including physics, chemistry, biology, mathematics, and social sciences. It supports this through a network of research institutes that conduct groundbreaking research.</li>
+			</random>
+		</template>
+	</category>
+</aiml>

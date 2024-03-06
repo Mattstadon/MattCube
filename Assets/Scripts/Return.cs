@@ -13,7 +13,7 @@ public class Return : MonoBehaviour
     [SerializeField] Text displayText; // UI Text component for displaying messages
     [SerializeField] string sceneName = "Boot Up"; // Scene to switch to
     [SerializeField] float delay = 2f; // Delay in seconds before switching scenes
-    [SerializeField] string fullText = "Exiting program..."; // The text to display during boot-up
+    [SerializeField] string fullText = "Purging Files...\n Ejecting Model...\n Goodbye..!"; // The text to display during boot-up, with a line break after "..."
     [SerializeField] float typingSpeed = 0.1f; // Speed at which the text types out
 
     private Button button; // Reference to the UI Button component

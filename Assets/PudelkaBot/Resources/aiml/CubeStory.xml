@@ -34,4 +34,29 @@
 			After the cube discovery, the world is abuzz with excitement and speculation as news of the unearthed artifacts spreads. International attention focuses on the Błędowska Desert, where archaeological teams converge to study the cubes and unravel their mysteries. Collaborative efforts across disciplines lead to breakthroughs in deciphering the symbols and understanding the cubes' purpose. However, the discovery also triggers controversy, skepticism, and geopolitical tensions as nations vie for influence and control over the newfound knowledge.
 		</template>
 	</category>
+
+	<category>
+		<pattern>CAN YOU SUMMARIZE THE BOOK</pattern>
+		<template>
+			The book chronicles the journey of Dr. Helena Novak and her team as they uncover the mysterious cubes in the Błędowska Desert. It details the challenges they face, the breakthroughs they achieve, and the global impact of their discovery, offering readers a glimpse into the intersection of archaeology, history, and the unknown.
+		</template>
+	</category>
+	<category>
+		<pattern>WHO IS THE AUTHOR OF THE BOOK</pattern>
+		<template>
+			The author of the book is Dawes Mattham.
+		</template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE BOOK ABOUT</pattern>
+		<template>
+			The book is about the discovery of the cubes in the Błędowska Desert and the subsequent exploration of their origins, purpose, and the implications of their discovery for humanity's understanding of the universe. It delves into the challenges faced by the archaeologists, the breakthroughs made in deciphering the cubes, and the global impact of their findings.
+		</template>
+	</category>
+	<category>
+		<pattern>WHAT IS THE BOOK'S MAIN THEME</pattern>
+		<template>
+			The main theme of the book is the exploration of the unknown and the quest for knowledge. It highlights the journey of discovery, the challenges of deciphering the mysteries of the cubes, and the profound implications of their existence for our understanding of the universe and humanity's place in it.
+		</template>
+	</category>
 </aiml>
