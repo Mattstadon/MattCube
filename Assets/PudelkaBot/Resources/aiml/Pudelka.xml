@@ -1,13 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <aiml>
 	<category>
-		<pattern>DO YOU KNOW ABOUT THE PUDELKA</pattern>
-		<template>
-			<srai>WHAT ARE THE PUDELKA</srai>
-		</template>
-	</category>
-
-	<category>
 		<pattern>EXPLAIN THE PUDELKA</pattern>
 		<template>
 			<random>
@@ -23,14 +16,7 @@
 	</category>
 
 	<category>
-		<pattern>TELL ME ABOUT THE PUDELKA</pattern>
-		<template>
-			<srai>WHAT IS A PUDELKA</srai>
-		</template>
-	</category>
-
-	<category>
-		<pattern>WHAT IS THE PUDELKA</pattern>
+		<pattern>WHAT ARE THE PUDELKA</pattern>
 		<template>
 			<random>
 				<li>Pudelka are a collection of pristine cubes unearthed in the Błędowska Desert, notable for their indestructible nature and cryptic symbols. They have captured the attention of the scientific community and are the focus of ongoing research to unravel their cosmic significance.</li>
@@ -177,4 +163,4 @@
 						</random>
 					</template>
 				</category>
-			
+</aiml>

@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
   m_Name: ReferenceImageLibrary
   m_EditorClassIdentifier: 
-  m_GuidLow: 5027850189101609126
-  m_GuidHigh: 10492396496444451754
+  m_GuidLow: 4856741127909523912
+  m_GuidHigh: 3141653561904760461
   m_DataStore:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5055746195201463086
-      m_GuidHigh: 1651944655174434210
+      m_GuidLow: 5365822842797583330
+      m_GuidHigh: 17001259332870941099
     m_SerializedTextureGuid:
       m_GuidLow: 4000430856036911201
       m_GuidHigh: 11473339760659861963

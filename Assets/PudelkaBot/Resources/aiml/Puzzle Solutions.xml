@@ -1,14 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <aiml>
 	<category>
-		<pattern>DO YOU KNOW ANY PUZZLE SOLUTIONS</pattern>
-		<template>
-			<srai>WHAT ARE SOME PUZZLE SOLUTIONS</srai>
-		</template>
-	</category>
-
-	<category>
-		<pattern>PUZZLE SOLUTION</pattern>
+		<pattern>PUZZLE SOLUTION GUIDE</pattern>
 		<template>
 			<random>
 				<li>A puzzle solution refers to the resolution or answer to a specific puzzle or enigma. In the case of the Pudelka, it involves deciphering a 9-digit number code by inputting numbers between -1 and 7 using the Pudelka's activation mechanism. These puzzles are intricately linked to the mysterious cubes discovered in the Błędowska Desert. Each puzzle solution unveils a fragment of hidden knowledge encoded within the cubes, offering insights into ancient civilizations, extraterrestrial intelligence, and the mysteries of the universe.</li>
@@ -17,7 +10,7 @@
 	</category>
 
 	<category>
-		<pattern>PUZZLE SOLUTIONS</pattern>
+		<pattern>PUZZLE SOLUTION INFO</pattern>
 		<template>
 			<random>
 				<li>I am very interested in puzzle solutions. What type of puzzle are you interested in solving? The puzzles associated with the Pudelka and the cubes are not ordinary brainteasers. They are gateways to unlocking profound secrets hidden within the fabric of existence. Each solution reveals a glimpse of ancient wisdom and cosmic knowledge, waiting to be deciphered by those who dare to venture into the realm of the unknown.</li>
@@ -27,14 +20,7 @@
 	</category>
 
 	<category>
-		<pattern>TELL ME ABOUT SOME PUZZLE SOLUTIONS</pattern>
-		<template>
-			<srai>WHAT IS A PUZZLE SOLUTION</srai>
-		</template>
-	</category>
-
-	<category>
-		<pattern>WHATS A PUZZLE SOLUTION</pattern>
+		<pattern>WHAT IS A PUZZLE SOLUTION</pattern>
 		<template>
 			<random>
 				<li>Puzzle solutions entail unlocking the secrets hidden within various puzzles by finding the correct combination or code. With the Pudelka, users can activate it to input a 9-digit number code, tapping into its unique ability to solve puzzles through numerical sequences. These solutions are more than just answers to riddles; they are revelations that connect humanity to ancient civilizations, extraterrestrial beings, and the vast mysteries of the cosmos, as encoded within the cubes.</li>
@@ -44,7 +30,7 @@
 	</category>
 
 	<category>
-		<pattern>DO YOU KNOW ANY OF THE PUZZLE SOLUTIONS</pattern>
+		<pattern>DO YOU KNOW ANY PUZZLE SOLUTIONS</pattern>
 		<template>
 			<random>
 				<li>Inputting the sequence 2 -1 6 -1 4 -1 -1 4 -1 into the Pudelka will reveal a form of organic life not found on Earth. This solution is just one of many encrypted within the cubes, each offering a glimpse into the unknown depths of existence.</li>
@@ -66,13 +52,6 @@
 	</category>
 	
 		<category>
-			<pattern>DO YOU KNOW ANY PUZZLE SOLUTIONS</pattern>
-			<template>
-				<srai>WHAT ARE SOME PUZZLE SOLUTIONS</srai>
-			</template>
-		</category>
-
-		<category>
 			<pattern>PUZZLE SOLUTION</pattern>
 			<template>
 				<random>
@@ -88,13 +67,6 @@
 					<li>I am very interested in puzzle solutions. What type of puzzle are you interested in solving? The puzzles associated with the Pudelka and the cubes are not ordinary brainteasers. They are gateways to unlocking profound secrets hidden within the fabric of existence. Each solution reveals a glimpse of ancient wisdom and cosmic knowledge, waiting to be deciphered by those who dare to venture into the realm of the unknown.</li>
 					<li>The puzzle solutions linked to the Pudelka and the enigmatic cubes unearthed in the Błędowska Desert are unlike any others. They transcend conventional riddles, offering clues to mysteries that span across time and space. These solutions hold the key to unlocking the secrets of ancient civilizations, extraterrestrial encounters, and the very nature of reality itself.</li>
 				</random>
-			</template>
-		</category>
-
-		<category>
-			<pattern>TELL ME ABOUT SOME PUZZLE SOLUTIONS</pattern>
-			<template>
-				<srai>WHAT IS A PUZZLE SOLUTION</srai>
 			</template>
 		</category>
 

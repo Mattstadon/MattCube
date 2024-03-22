@@ -154,21 +154,21 @@
 	</category>
 
 	<category>
-		<pattern>WHO FUNDED THE CUBE DISCOVERY PROJECT</pattern>
+		<pattern>WHO FUNDED THE PUDELKA PROJECT</pattern>
 		<template>
 			The cube discovery project was funded by the Polska Akademia Nauk, demonstrating their commitment to advancing scientific knowledge and exploration.
 		</template>
 	</category>
 
 	<category>
-		<pattern>HOW WAS THE CUBE DISCOVERY EXPEDITION FUNDED</pattern>
+		<pattern>HOW WAS THE PUDELKA EXPEDITION FUNDED</pattern>
 		<template>
 			The cube discovery expedition was funded by the Polska Akademia Nauk, highlighting their role in supporting scientific exploration and discovery projects.
 		</template>
 	</category>
 
 	<category>
-		<pattern>CAN YOU TELL ME MORE ABOUT THE POLSKA AKADEMIA NAUK</pattern>
+		<pattern>TELL ME ABOUT POLSKA AKADEMIA NAUK</pattern>
 		<template>
 			<random>
 				<li>The Polska Akademia Nauk is a leading institution in Poland, dedicated to promoting scientific research and education. It supports a wide range of disciplines through its network of research institutes and scholars.</li>
